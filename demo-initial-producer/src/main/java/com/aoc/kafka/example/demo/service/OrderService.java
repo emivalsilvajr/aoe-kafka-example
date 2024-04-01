@@ -1,7 +1,7 @@
 package com.aoc.kafka.example.demo.service;
 
-import com.aoc.kafka.dto.OrderRequest;
-import com.aoc.kafka.dto.OrderResponse;
+import com.aoc.kafka.example.demo.dto.OrderRequest;
+import com.aoc.kafka.example.demo.dto.OrderResponse;
 import com.aoc.kafka.example.demo.domain.OrderDetails;
 import com.aoc.kafka.example.demo.domain.OrderEvent;
 import com.aoc.kafka.example.demo.producer.OrderProducer;
